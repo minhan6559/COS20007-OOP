@@ -1,0 +1,15 @@
+/Users/minhan6559/Library/CloudStorage/OneDrive-MSFT/SourceCode/Swinburne/OOP/Week 2/2.3/bin/Debug/net7.0/_2_3
+/Users/minhan6559/Library/CloudStorage/OneDrive-MSFT/SourceCode/Swinburne/OOP/Week 2/2.3/bin/Debug/net7.0/_2_3.deps.json
+/Users/minhan6559/Library/CloudStorage/OneDrive-MSFT/SourceCode/Swinburne/OOP/Week 2/2.3/bin/Debug/net7.0/_2_3.runtimeconfig.json
+/Users/minhan6559/Library/CloudStorage/OneDrive-MSFT/SourceCode/Swinburne/OOP/Week 2/2.3/bin/Debug/net7.0/_2_3.dll
+/Users/minhan6559/Library/CloudStorage/OneDrive-MSFT/SourceCode/Swinburne/OOP/Week 2/2.3/bin/Debug/net7.0/_2_3.pdb
+/Users/minhan6559/Library/CloudStorage/OneDrive-MSFT/SourceCode/Swinburne/OOP/Week 2/2.3/obj/Debug/net7.0/_2_3.csproj.AssemblyReference.cache
+/Users/minhan6559/Library/CloudStorage/OneDrive-MSFT/SourceCode/Swinburne/OOP/Week 2/2.3/obj/Debug/net7.0/_2_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minhan6559/Library/CloudStorage/OneDrive-MSFT/SourceCode/Swinburne/OOP/Week 2/2.3/obj/Debug/net7.0/_2_3.AssemblyInfoInputs.cache
+/Users/minhan6559/Library/CloudStorage/OneDrive-MSFT/SourceCode/Swinburne/OOP/Week 2/2.3/obj/Debug/net7.0/_2_3.AssemblyInfo.cs
+/Users/minhan6559/Library/CloudStorage/OneDrive-MSFT/SourceCode/Swinburne/OOP/Week 2/2.3/obj/Debug/net7.0/_2_3.csproj.CoreCompileInputs.cache
+/Users/minhan6559/Library/CloudStorage/OneDrive-MSFT/SourceCode/Swinburne/OOP/Week 2/2.3/obj/Debug/net7.0/_2_3.dll
+/Users/minhan6559/Library/CloudStorage/OneDrive-MSFT/SourceCode/Swinburne/OOP/Week 2/2.3/obj/Debug/net7.0/refint/_2_3.dll
+/Users/minhan6559/Library/CloudStorage/OneDrive-MSFT/SourceCode/Swinburne/OOP/Week 2/2.3/obj/Debug/net7.0/_2_3.pdb
+/Users/minhan6559/Library/CloudStorage/OneDrive-MSFT/SourceCode/Swinburne/OOP/Week 2/2.3/obj/Debug/net7.0/_2_3.genruntimeconfig.cache
+/Users/minhan6559/Library/CloudStorage/OneDrive-MSFT/SourceCode/Swinburne/OOP/Week 2/2.3/obj/Debug/net7.0/ref/_2_3.dll
