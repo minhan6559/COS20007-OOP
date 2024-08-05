@@ -27,7 +27,7 @@ def main():
         2.1,
     ]  # (a)
     ave = Average(arr)  # (b)
-    student_id = 104844794
+    student_id = "104844794"
     print("Average: ", ave)  # (c)
     print(f"Minh An Nguyen - {student_id}")  # (d)
 
@@ -37,8 +37,8 @@ def main():
         print("Average value negative")
 
     # 11
-    last_digit_ave = int(abs(ave)) % 10
-    last_digit_id = student_id % 10
+    last_digit_ave = int(str(ave)[-1])
+    last_digit_id = int(student_id[-1])
 
     if last_digit_ave > last_digit_id:
         print("Larger than my last digit")
