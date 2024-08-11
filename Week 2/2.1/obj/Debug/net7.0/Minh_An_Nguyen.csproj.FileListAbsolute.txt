@@ -1,0 +1,15 @@
+/Users/minhan6559/Desktop/COS20007-OOP/Week 2/2.1/bin/Debug/net7.0/Minh_An_Nguyen
+/Users/minhan6559/Desktop/COS20007-OOP/Week 2/2.1/bin/Debug/net7.0/Minh_An_Nguyen.deps.json
+/Users/minhan6559/Desktop/COS20007-OOP/Week 2/2.1/bin/Debug/net7.0/Minh_An_Nguyen.runtimeconfig.json
+/Users/minhan6559/Desktop/COS20007-OOP/Week 2/2.1/bin/Debug/net7.0/Minh_An_Nguyen.dll
+/Users/minhan6559/Desktop/COS20007-OOP/Week 2/2.1/bin/Debug/net7.0/Minh_An_Nguyen.pdb
+/Users/minhan6559/Desktop/COS20007-OOP/Week 2/2.1/obj/Debug/net7.0/Minh_An_Nguyen.csproj.AssemblyReference.cache
+/Users/minhan6559/Desktop/COS20007-OOP/Week 2/2.1/obj/Debug/net7.0/Minh_An_Nguyen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minhan6559/Desktop/COS20007-OOP/Week 2/2.1/obj/Debug/net7.0/Minh_An_Nguyen.AssemblyInfoInputs.cache
+/Users/minhan6559/Desktop/COS20007-OOP/Week 2/2.1/obj/Debug/net7.0/Minh_An_Nguyen.AssemblyInfo.cs
+/Users/minhan6559/Desktop/COS20007-OOP/Week 2/2.1/obj/Debug/net7.0/Minh_An_Nguyen.csproj.CoreCompileInputs.cache
+/Users/minhan6559/Desktop/COS20007-OOP/Week 2/2.1/obj/Debug/net7.0/Minh_An_Nguyen.dll
+/Users/minhan6559/Desktop/COS20007-OOP/Week 2/2.1/obj/Debug/net7.0/refint/Minh_An_Nguyen.dll
+/Users/minhan6559/Desktop/COS20007-OOP/Week 2/2.1/obj/Debug/net7.0/Minh_An_Nguyen.pdb
+/Users/minhan6559/Desktop/COS20007-OOP/Week 2/2.1/obj/Debug/net7.0/Minh_An_Nguyen.genruntimeconfig.cache
+/Users/minhan6559/Desktop/COS20007-OOP/Week 2/2.1/obj/Debug/net7.0/ref/Minh_An_Nguyen.dll
