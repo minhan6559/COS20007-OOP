@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week 3\\3.1\\Clock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{290467CF-AE77-41AC-8C8F-82748B4660F7}|Clock.csproj|c:\\users\\admin\\desktop\\cos20007-oop\\week 3\\3.1\\clock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290467CF-AE77-41AC-8C8F-82748B4660F7}|Clock.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20F9AC4-BC99-4F86-A721-9DDF4E55290D}|..\\ClockTest\\ClockTest.csproj|c:\\users\\admin\\desktop\\cos20007-oop\\week 3\\3.1\\clocktest\\countertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20F9AC4-BC99-4F86-A721-9DDF4E55290D}|..\\ClockTest\\ClockTest.csproj|c:\\users\\admin\\desktop\\cos20007-oop\\week 3\\3.1\\clocktest\\clocktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CounterTest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week 3\\3.1\\ClockTest\\CounterTest.cs",
+              "RelativeDocumentMoniker": "..\\ClockTest\\CounterTest.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week 3\\3.1\\ClockTest\\CounterTest.cs",
+              "RelativeToolTip": "..\\ClockTest\\CounterTest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T03:26:12.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClockTest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week 3\\3.1\\ClockTest\\ClockTest.cs",
+              "RelativeDocumentMoniker": "..\\ClockTest\\ClockTest.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week 3\\3.1\\ClockTest\\ClockTest.cs",
+              "RelativeToolTip": "..\\ClockTest\\ClockTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T03:25:00.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week 3\\3.1\\Clock\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week 3\\3.1\\Clock\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T03:14:09.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
