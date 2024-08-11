@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/minhan6559/Library/CloudStorage/OneDrive-MSFT/SourceCode/Swinburne/OOP/Week 2/2.2/2.2P.csproj": {}
+    "/Users/minhan6559/Desktop/COS20007-OOP/Week 2/2.2/2.2P.csproj": {}
   },
   "projects": {
-    "/Users/minhan6559/Library/CloudStorage/OneDrive-MSFT/SourceCode/Swinburne/OOP/Week 2/2.2/2.2P.csproj": {
+    "/Users/minhan6559/Desktop/COS20007-OOP/Week 2/2.2/2.2P.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/minhan6559/Library/CloudStorage/OneDrive-MSFT/SourceCode/Swinburne/OOP/Week 2/2.2/2.2P.csproj",
+        "projectUniqueName": "/Users/minhan6559/Desktop/COS20007-OOP/Week 2/2.2/2.2P.csproj",
         "projectName": "2.2P",
-        "projectPath": "/Users/minhan6559/Library/CloudStorage/OneDrive-MSFT/SourceCode/Swinburne/OOP/Week 2/2.2/2.2P.csproj",
+        "projectPath": "/Users/minhan6559/Desktop/COS20007-OOP/Week 2/2.2/2.2P.csproj",
         "packagesPath": "/Users/minhan6559/.nuget/packages/",
-        "outputPath": "/Users/minhan6559/Library/CloudStorage/OneDrive-MSFT/SourceCode/Swinburne/OOP/Week 2/2.2/obj/",
+        "outputPath": "/Users/minhan6559/Desktop/COS20007-OOP/Week 2/2.2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/minhan6559/.nuget/NuGet/NuGet.Config"

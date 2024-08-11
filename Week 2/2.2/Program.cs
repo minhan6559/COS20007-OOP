@@ -16,7 +16,7 @@ namespace CounterTask
             Counter[] myCounters = new Counter[3];
             myCounters[0] = new Counter("Counter 1");
             myCounters[1] = new Counter("Counter 2");
-            myCounters[2] = new Counter("Counter 3");
+            myCounters[2] = myCounters[0];
 
             for (int i = 1; i <= 9; i++)
             {
