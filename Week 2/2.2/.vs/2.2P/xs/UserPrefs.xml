@@ -1,17 +1,20 @@
 ﻿<Properties StartupConfiguration="{C6FEBCA0-2001-4D4A-9A5A-7A7C4108536C}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.2.2P PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Counter.cs" Line="28" Column="6" />
-      <File FileName="Program.cs" Line="16" Column="54" />
+      <File FileName="Counter.cs" />
+      <File FileName="Program.cs" Line="24" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="2.2P" expanded="True">
-            <Node name="2.2P" expanded="True">
+          <Node name="2.2P">
+            <Node name="2.2P">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -19,8 +22,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.2.2P PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

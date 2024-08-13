@@ -1,0 +1,15 @@
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.2/Memory/obj/Debug/net7.0/Memory.csproj.AssemblyReference.cache
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.2/Memory/obj/Debug/net7.0/Memory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.2/Memory/obj/Debug/net7.0/Memory.AssemblyInfoInputs.cache
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.2/Memory/obj/Debug/net7.0/Memory.AssemblyInfo.cs
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.2/Memory/obj/Debug/net7.0/Memory.csproj.CoreCompileInputs.cache
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.2/Memory/bin/Debug/net7.0/Memory
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.2/Memory/bin/Debug/net7.0/Memory.deps.json
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.2/Memory/bin/Debug/net7.0/Memory.runtimeconfig.json
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.2/Memory/bin/Debug/net7.0/Memory.dll
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.2/Memory/bin/Debug/net7.0/Memory.pdb
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.2/Memory/obj/Debug/net7.0/Memory.dll
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.2/Memory/obj/Debug/net7.0/refint/Memory.dll
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.2/Memory/obj/Debug/net7.0/Memory.pdb
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.2/Memory/obj/Debug/net7.0/Memory.genruntimeconfig.cache
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.2/Memory/obj/Debug/net7.0/ref/Memory.dll
