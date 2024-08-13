@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week_2\\2.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFE7CD2-74B9-494E-94FE-F76B0DA75AEB}|SwinAdventure.csproj|c:\\users\\admin\\desktop\\cos20007-oop\\week_2\\2.4\\identifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFE7CD2-74B9-494E-94FE-F76B0DA75AEB}|SwinAdventure.csproj|solutionrelative:identifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdentifiableObject.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week_2\\2.4\\IdentifiableObject.cs",
+              "RelativeDocumentMoniker": "IdentifiableObject.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week_2\\2.4\\IdentifiableObject.cs",
+              "RelativeToolTip": "IdentifiableObject.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwAoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:54:33.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

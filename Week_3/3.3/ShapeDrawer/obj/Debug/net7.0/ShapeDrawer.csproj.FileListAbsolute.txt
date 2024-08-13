@@ -1,0 +1,30 @@
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.3/ShapeDrawer/bin/Debug/net7.0/ShapeDrawer
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.3/ShapeDrawer/bin/Debug/net7.0/ShapeDrawer.deps.json
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.3/ShapeDrawer/bin/Debug/net7.0/ShapeDrawer.runtimeconfig.json
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.3/ShapeDrawer/bin/Debug/net7.0/ShapeDrawer.dll
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.3/ShapeDrawer/bin/Debug/net7.0/ShapeDrawer.pdb
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.3/ShapeDrawer/obj/Debug/net7.0/ShapeDrawer.csproj.AssemblyReference.cache
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.3/ShapeDrawer/obj/Debug/net7.0/ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.3/ShapeDrawer/obj/Debug/net7.0/ShapeDrawer.AssemblyInfoInputs.cache
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.3/ShapeDrawer/obj/Debug/net7.0/ShapeDrawer.AssemblyInfo.cs
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.3/ShapeDrawer/obj/Debug/net7.0/ShapeDrawer.csproj.CoreCompileInputs.cache
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.3/ShapeDrawer/obj/Debug/net7.0/ShapeDrawer.dll
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.3/ShapeDrawer/obj/Debug/net7.0/refint/ShapeDrawer.dll
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.3/ShapeDrawer/obj/Debug/net7.0/ShapeDrawer.pdb
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.3/ShapeDrawer/obj/Debug/net7.0/ShapeDrawer.genruntimeconfig.cache
+/Users/minhan6559/Desktop/COS20007-OOP/Week 3/3.3/ShapeDrawer/obj/Debug/net7.0/ref/ShapeDrawer.dll
+C:\Users\Admin\Desktop\COS20007-OOP\Week 3\3.3\ShapeDrawer\obj\Debug\net7.0\ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\COS20007-OOP\Week 3\3.3\ShapeDrawer\obj\Debug\net7.0\ShapeDrawer.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\COS20007-OOP\Week 3\3.3\ShapeDrawer\obj\Debug\net7.0\ShapeDrawer.AssemblyInfo.cs
+C:\Users\Admin\Desktop\COS20007-OOP\Week 3\3.3\ShapeDrawer\obj\Debug\net7.0\ShapeDrawer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\COS20007-OOP\Week 3\3.3\ShapeDrawer\obj\Debug\net7.0\ShapeDrawer.dll
+C:\Users\Admin\Desktop\COS20007-OOP\Week 3\3.3\ShapeDrawer\obj\Debug\net7.0\refint\ShapeDrawer.dll
+C:\Users\Admin\Desktop\COS20007-OOP\Week 3\3.3\ShapeDrawer\obj\Debug\net7.0\ShapeDrawer.pdb
+C:\Users\Admin\Desktop\COS20007-OOP\Week_3\3.3\ShapeDrawer\obj\Debug\net7.0\ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\COS20007-OOP\Week_3\3.3\ShapeDrawer\obj\Debug\net7.0\ShapeDrawer.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\COS20007-OOP\Week_3\3.3\ShapeDrawer\obj\Debug\net7.0\ShapeDrawer.AssemblyInfo.cs
+C:\Users\Admin\Desktop\COS20007-OOP\Week_3\3.3\ShapeDrawer\obj\Debug\net7.0\ShapeDrawer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\COS20007-OOP\Week_3\3.3\ShapeDrawer\obj\Debug\net7.0\ShapeDrawer.dll
+C:\Users\Admin\Desktop\COS20007-OOP\Week_3\3.3\ShapeDrawer\obj\Debug\net7.0\refint\ShapeDrawer.dll
+C:\Users\Admin\Desktop\COS20007-OOP\Week_3\3.3\ShapeDrawer\obj\Debug\net7.0\ShapeDrawer.pdb
+C:\Users\Admin\Desktop\COS20007-OOP\Week_3\3.3\ShapeDrawer\obj\Debug\net7.0\ShapeDrawer.sourcelink.json
