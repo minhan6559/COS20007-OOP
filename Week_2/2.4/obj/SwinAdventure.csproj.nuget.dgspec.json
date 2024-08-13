@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week_2\\2.4\\SwinAdventure.csproj": {}
+    "/Users/minhan6559/Desktop/COS20007-OOP/Week_2/2.4/SwinAdventure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week_2\\2.4\\SwinAdventure.csproj": {
+    "/Users/minhan6559/Desktop/COS20007-OOP/Week_2/2.4/SwinAdventure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week_2\\2.4\\SwinAdventure.csproj",
+        "projectUniqueName": "/Users/minhan6559/Desktop/COS20007-OOP/Week_2/2.4/SwinAdventure.csproj",
         "projectName": "SwinAdventure",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week_2\\2.4\\SwinAdventure.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week_2\\2.4\\obj\\",
+        "projectPath": "/Users/minhan6559/Desktop/COS20007-OOP/Week_2/2.4/SwinAdventure.csproj",
+        "packagesPath": "/Users/minhan6559/.nuget/packages/",
+        "outputPath": "/Users/minhan6559/Desktop/COS20007-OOP/Week_2/2.4/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/minhan6559/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/RuntimeIdentifierGraph.json"
         }
       }
     }

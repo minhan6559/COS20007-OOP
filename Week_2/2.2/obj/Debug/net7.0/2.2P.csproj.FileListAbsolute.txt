@@ -28,3 +28,18 @@
 /Users/minhan6559/Desktop/COS20007-OOP/Week 2/2.2/obj/Debug/net7.0/2.2P.pdb
 /Users/minhan6559/Desktop/COS20007-OOP/Week 2/2.2/obj/Debug/net7.0/2.2P.genruntimeconfig.cache
 /Users/minhan6559/Desktop/COS20007-OOP/Week 2/2.2/obj/Debug/net7.0/ref/2.2P.dll
+/Users/minhan6559/Desktop/COS20007-OOP/Week_2/2.2/bin/Debug/net7.0/2.2P
+/Users/minhan6559/Desktop/COS20007-OOP/Week_2/2.2/bin/Debug/net7.0/2.2P.deps.json
+/Users/minhan6559/Desktop/COS20007-OOP/Week_2/2.2/bin/Debug/net7.0/2.2P.runtimeconfig.json
+/Users/minhan6559/Desktop/COS20007-OOP/Week_2/2.2/bin/Debug/net7.0/2.2P.dll
+/Users/minhan6559/Desktop/COS20007-OOP/Week_2/2.2/bin/Debug/net7.0/2.2P.pdb
+/Users/minhan6559/Desktop/COS20007-OOP/Week_2/2.2/obj/Debug/net7.0/2.2P.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minhan6559/Desktop/COS20007-OOP/Week_2/2.2/obj/Debug/net7.0/2.2P.AssemblyInfoInputs.cache
+/Users/minhan6559/Desktop/COS20007-OOP/Week_2/2.2/obj/Debug/net7.0/2.2P.AssemblyInfo.cs
+/Users/minhan6559/Desktop/COS20007-OOP/Week_2/2.2/obj/Debug/net7.0/2.2P.csproj.CoreCompileInputs.cache
+/Users/minhan6559/Desktop/COS20007-OOP/Week_2/2.2/obj/Debug/net7.0/2.2P.sourcelink.json
+/Users/minhan6559/Desktop/COS20007-OOP/Week_2/2.2/obj/Debug/net7.0/2.2P.dll
+/Users/minhan6559/Desktop/COS20007-OOP/Week_2/2.2/obj/Debug/net7.0/refint/2.2P.dll
+/Users/minhan6559/Desktop/COS20007-OOP/Week_2/2.2/obj/Debug/net7.0/2.2P.pdb
+/Users/minhan6559/Desktop/COS20007-OOP/Week_2/2.2/obj/Debug/net7.0/2.2P.genruntimeconfig.cache
+/Users/minhan6559/Desktop/COS20007-OOP/Week_2/2.2/obj/Debug/net7.0/ref/2.2P.dll
