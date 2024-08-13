@@ -24,7 +24,7 @@
             },
             "osx": {
                 "env": {
-                    "DYLD_LIBRARY_PATH": "${env:HOME}/.splashkit/lib/macos"
+                    "DYLD_LIBRARY_PATH": "/Users/minhan6559/.splashkit/lib/macos"
                 }
             },
             "windows": {

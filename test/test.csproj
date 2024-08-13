@@ -7,4 +7,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'Default' ">
+    <StartAction>Project</StartAction>
+    <StartWorkingDirectory>.</StartWorkingDirectory>
+    <ExternalConsole>true</ExternalConsole>
+    <EnvironmentVariables>
+    <Variable name="DYLD_LIBRARY_PATH" value="/Users/minhan6559/.splashkit/lib/macos" />
+    </EnvironmentVariables>
+  </PropertyGroup>
+
 </Project>
