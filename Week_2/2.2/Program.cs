@@ -31,6 +31,12 @@ namespace CounterTask
             PrintCounters(myCounters);
             myCounters[2].Reset();
             PrintCounters(myCounters);
+
+            Console.WriteLine("\nResetting Counter 2 by default and then incrementing it:");
+            myCounters[1].ResetByDefault();
+            myCounters[1].Increment();
+            Console.WriteLine($"{myCounters[1].Name} is {myCounters[1].Ticks}");
+
         }
     }
 }

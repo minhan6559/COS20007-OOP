@@ -19,13 +19,13 @@ public class Counter
         _count = 0;
     }
 
-    // The value 2147483647794 exceeds the maximum value for an int in C# (2147483647)
-    // This will cause an overflow compilation error.
-
-    // public void ResetByDefault()
-    // {
-    //     _count = 2147483647794;
-    // }
+    public void ResetByDefault()
+    {
+        unchecked
+        {
+            _count = (int)2147483647794;
+        }
+    }
 
     public string Name
     {
