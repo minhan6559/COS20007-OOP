@@ -6,9 +6,7 @@ namespace CounterTask
         private static void PrintCounters(Counter[] counters)
         {
             foreach (Counter c in counters)
-            {
                 Console.WriteLine($"{c.Name} is {c.Ticks}");
-            }
         }
 
         static void Main(string[] args)
