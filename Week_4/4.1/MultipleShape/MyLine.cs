@@ -51,8 +51,8 @@ namespace MultipleShape
 
         public override void DrawOutline()
         {
-            SplashKit.DrawCircle(Color.Black, X, Y, 2);
-            SplashKit.DrawCircle(Color.Black, EndX, EndY, 2);
+            SplashKit.DrawCircle(Color.Black, X, Y, 5);
+            SplashKit.DrawCircle(Color.Black, EndX, EndY, 5);
         }
     }
 }

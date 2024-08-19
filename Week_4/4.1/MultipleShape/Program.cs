@@ -20,6 +20,10 @@ namespace MultipleShape
 
             ShapeKind kindToAdd = ShapeKind.Circle;
 
+            // My ID: 104844794 => Last digit: 4
+            // So I'm only able to draw a maximum of X lines within the timeframe
+            int maxLines = 4;
+
             do
             {
                 SplashKit.ProcessEvents();
@@ -30,12 +34,14 @@ namespace MultipleShape
                     kindToAdd = ShapeKind.Rectangle;
                 }
 
-                if (SplashKit.KeyTyped(KeyCode.CKey))
+                // If the user presses the C key or has run out of lines to draw, they will draw circles
+                if (SplashKit.KeyTyped(KeyCode.CKey) || maxLines <= 0)
                 {
                     kindToAdd = ShapeKind.Circle;
                 }
 
-                if (SplashKit.KeyTyped(KeyCode.LKey))
+                // If the user presses the L key and has lines left to draw, they will draw lines
+                if (SplashKit.KeyTyped(KeyCode.LKey) && maxLines > 0)
                 {
                     kindToAdd = ShapeKind.Line;
                 }
@@ -51,6 +57,7 @@ namespace MultipleShape
                             break;
                         case ShapeKind.Line:
                             myShape = new MyLine();
+                            maxLines--;
                             break;
                         default:
                             myShape = new MyRectangle();

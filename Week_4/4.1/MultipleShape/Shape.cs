@@ -10,12 +10,8 @@ namespace MultipleShape
         private bool _selected;
 
         // Constructor
-        public Shape()
+        public Shape() : this(Color.Yellow)
         {
-            _color = Color.Chocolate;
-            _x = 0.0f;
-            _y = 0.0f;
-            _selected = false;
         }
 
         public Shape(Color color)
