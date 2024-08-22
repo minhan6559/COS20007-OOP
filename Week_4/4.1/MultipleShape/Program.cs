@@ -29,13 +29,7 @@ namespace MultipleShape
                 SplashKit.ProcessEvents();
                 SplashKit.ClearScreen();
 
-                if (SplashKit.KeyTyped(KeyCode.RKey))
-                {
-                    kindToAdd = ShapeKind.Rectangle;
-                }
-
-                // If the user presses the C key or has run out of lines to draw, they will draw circles
-                if (SplashKit.KeyTyped(KeyCode.CKey) || maxLines <= 0)
+                if (maxLines <= 0 && kindToAdd == ShapeKind.Line)
                 {
                     kindToAdd = ShapeKind.Circle;
                 }
@@ -44,6 +38,17 @@ namespace MultipleShape
                 if (SplashKit.KeyTyped(KeyCode.LKey) && maxLines > 0)
                 {
                     kindToAdd = ShapeKind.Line;
+                }
+
+                if (SplashKit.KeyTyped(KeyCode.RKey))
+                {
+                    kindToAdd = ShapeKind.Rectangle;
+                }
+
+                // If the user presses the C key or has run out of lines to draw, they will draw circles
+                if (SplashKit.KeyTyped(KeyCode.CKey))
+                {
+                    kindToAdd = ShapeKind.Circle;
                 }
 
                 if (SplashKit.MouseClicked(MouseButton.LeftButton))

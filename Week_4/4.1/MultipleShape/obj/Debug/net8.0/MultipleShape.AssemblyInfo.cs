@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultipleShape")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08b183a9d9f4f444c7ef9931d46db02dfe6d898c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89b0d9104499fe7ad7b78cbd6fd1a713fa746aaa")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultipleShape")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultipleShape")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
