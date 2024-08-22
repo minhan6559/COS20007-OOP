@@ -1,17 +1,22 @@
-﻿<Properties StartupConfiguration="{8AFE7CD2-74B9-494E-94FE-F76B0DA75AEB}|Default">
-  <MonoDevelop.Ide.ItemProperties.SwinAdventure PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+﻿<Properties StartupConfiguration="{DAD97FCF-35DE-4539-A2D0-6A409815A24C}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../TestInventory/TestInventory.cs">
     <Files>
       <File FileName="Program.cs" Line="1" Column="1" />
-      <File FileName="IdentifiableObject.cs" />
-      <File FileName="../TestIdentifiableObject/TestIdentifiableObject.cs" Line="8" Column="21" />
+      <File FileName="IdentifiableObject.cs" Line="1" Column="1" />
+      <File FileName="../TestInventory/TestInventory.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SwinAdventure" expanded="True">
-            <Node name="SwinAdventure">
-              <Node name="Program.cs" selected="True" />
+            <Node name="TestInventory" expanded="True">
+              <Node name="TestInventory.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -23,10 +28,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SwinAdventure PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

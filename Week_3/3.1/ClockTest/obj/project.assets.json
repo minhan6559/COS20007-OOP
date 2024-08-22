@@ -1001,34 +1001,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "/Users/minhan6559/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week 3\\3.1\\ClockTest\\ClockTest.csproj",
+      "projectUniqueName": "/Users/minhan6559/Desktop/COS20007-OOP/Week_3/3.1/ClockTest/ClockTest.csproj",
       "projectName": "ClockTest",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week 3\\3.1\\ClockTest\\ClockTest.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week 3\\3.1\\ClockTest\\obj\\",
+      "projectPath": "/Users/minhan6559/Desktop/COS20007-OOP/Week_3/3.1/ClockTest/ClockTest.csproj",
+      "packagesPath": "/Users/minhan6559/.nuget/packages/",
+      "outputPath": "/Users/minhan6559/Desktop/COS20007-OOP/Week_3/3.1/ClockTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/minhan6559/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week 3\\3.1\\Clock\\Clock.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week 3\\3.1\\Clock\\Clock.csproj"
+            "/Users/minhan6559/Desktop/COS20007-OOP/Week_3/3.1/Clock/Clock.csproj": {
+              "projectPath": "/Users/minhan6559/Desktop/COS20007-OOP/Week_3/3.1/Clock/Clock.csproj"
             }
           }
         }
@@ -1085,7 +1083,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

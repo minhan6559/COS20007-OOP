@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9wqinlLu5Uc=",
+  "dgSpecHash": "W8lTLNsNizQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week 3\\3.1\\Clock\\Clock.csproj",
+  "projectFilePath": "/Users/minhan6559/Desktop/COS20007-OOP/Week_3/3.1/Clock/Clock.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\nunit\\3.14.0\\nunit.3.14.0.nupkg.sha512"
+    "/Users/minhan6559/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/minhan6559/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/minhan6559/.nuget/packages/nunit/3.14.0/nunit.3.14.0.nupkg.sha512"
   ],
   "logs": []
 }

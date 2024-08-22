@@ -319,10 +319,7 @@
       "System.Reflection.Metadata/1.6.0": {},
       "SwinAdventure/1.0.0": {
         "runtime": {
-          "SwinAdventure.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "SwinAdventure.dll": {}
         }
       }
     }
