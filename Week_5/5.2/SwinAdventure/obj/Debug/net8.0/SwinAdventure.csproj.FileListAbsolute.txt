@@ -1,0 +1,15 @@
+/Users/minhan6559/Desktop/COS20007-OOP/Week_5/5.2/SwinAdventure/bin/Debug/net8.0/SwinAdventure
+/Users/minhan6559/Desktop/COS20007-OOP/Week_5/5.2/SwinAdventure/bin/Debug/net8.0/SwinAdventure.deps.json
+/Users/minhan6559/Desktop/COS20007-OOP/Week_5/5.2/SwinAdventure/bin/Debug/net8.0/SwinAdventure.runtimeconfig.json
+/Users/minhan6559/Desktop/COS20007-OOP/Week_5/5.2/SwinAdventure/bin/Debug/net8.0/SwinAdventure.dll
+/Users/minhan6559/Desktop/COS20007-OOP/Week_5/5.2/SwinAdventure/bin/Debug/net8.0/SwinAdventure.pdb
+/Users/minhan6559/Desktop/COS20007-OOP/Week_5/5.2/SwinAdventure/obj/Debug/net8.0/SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minhan6559/Desktop/COS20007-OOP/Week_5/5.2/SwinAdventure/obj/Debug/net8.0/SwinAdventure.AssemblyInfoInputs.cache
+/Users/minhan6559/Desktop/COS20007-OOP/Week_5/5.2/SwinAdventure/obj/Debug/net8.0/SwinAdventure.AssemblyInfo.cs
+/Users/minhan6559/Desktop/COS20007-OOP/Week_5/5.2/SwinAdventure/obj/Debug/net8.0/SwinAdventure.csproj.CoreCompileInputs.cache
+/Users/minhan6559/Desktop/COS20007-OOP/Week_5/5.2/SwinAdventure/obj/Debug/net8.0/SwinAdventure.sourcelink.json
+/Users/minhan6559/Desktop/COS20007-OOP/Week_5/5.2/SwinAdventure/obj/Debug/net8.0/SwinAdventure.dll
+/Users/minhan6559/Desktop/COS20007-OOP/Week_5/5.2/SwinAdventure/obj/Debug/net8.0/refint/SwinAdventure.dll
+/Users/minhan6559/Desktop/COS20007-OOP/Week_5/5.2/SwinAdventure/obj/Debug/net8.0/SwinAdventure.pdb
+/Users/minhan6559/Desktop/COS20007-OOP/Week_5/5.2/SwinAdventure/obj/Debug/net8.0/SwinAdventure.genruntimeconfig.cache
+/Users/minhan6559/Desktop/COS20007-OOP/Week_5/5.2/SwinAdventure/obj/Debug/net8.0/ref/SwinAdventure.dll

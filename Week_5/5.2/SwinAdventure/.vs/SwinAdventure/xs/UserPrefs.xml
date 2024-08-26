@@ -1,25 +1,28 @@
 ﻿<Properties StartupConfiguration="{0911E7A8-4701-48BB-B3E3-BE9A2778C3DE}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestBag FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.SwinAdventure PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../TestBag/UnitTest1.cs">
     <Files>
       <File FileName="Program.cs" Line="12" Column="2" />
+      <File FileName="../TestBag/UnitTest1.cs" Line="13" Column="23" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SwinAdventure" expanded="True">
-            <Node name="SwinAdventure">
-              <Node name="Program.cs" selected="True" />
+            <Node name="SwinAdventure" expanded="True" />
+            <Node name="TestBag">
+              <Node name="Dependencies" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SwinAdventure PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
