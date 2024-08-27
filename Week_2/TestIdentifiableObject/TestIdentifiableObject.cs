@@ -65,7 +65,7 @@ namespace NUnitTests
         public void TestPrivilegeEscalation()
         {
             _idObjWithNoStuId.PrivilegeEscalation("4794");
-            Assert.IsTrue(_idObjWithNoStuId.AreYou("104844794"));
+            Assert.AreEqual("12", _idObjWithNoStuId.FirstId);
         }
     }
 }

@@ -48,11 +48,11 @@ namespace SwinAdventure
 
             if (_identifiers.Count == 0)
             {
-                AddIdentifier("104844794");
+                AddIdentifier("12");
             }
             else
             {
-                _identifiers[0] = "104844794";
+                _identifiers[0] = "12";
             }
         }
     }

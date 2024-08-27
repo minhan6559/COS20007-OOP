@@ -59,7 +59,9 @@ public class Tests
     [Test]
     public void TestBagHasPriviledgeItem()
     {
-        _b2.PrivilegeEscalation("4794");
-        Assert.Pass();
+        Item item = new Item(new string[] { "axe" }, "Axe", "An axe");
+        item.PrivilegeEscalation("4794");
+        _b2.Inventory.Put(item);
+        Assert.IsNull(_b1.Locate("12"));
     }
 }

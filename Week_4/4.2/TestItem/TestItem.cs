@@ -34,7 +34,7 @@ namespace TestItem
         public void TestPrivilegeEscalation()
         {
             _item.PrivilegeEscalation("4794");
-            Assert.AreEqual("104844794", _item.FirstId);
+            Assert.AreEqual("12", _item.FirstId);
         }
     }
 }

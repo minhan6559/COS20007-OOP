@@ -9,11 +9,6 @@ namespace SwinAdventure
     {
         static void Main()
         {
-            string expected = "You are Minh An, an AI enthusiast\n" +
-                                "You are carrying:\n" +
-                                "\ta sharp sword (sword)\n" +
-                                "\ta blunt axe (axe)";
-            Console.WriteLine(expected);
         }
     }
 }
