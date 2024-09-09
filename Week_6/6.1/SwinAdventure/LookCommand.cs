@@ -45,9 +45,9 @@ namespace SwinAdventure
 
         public string LookAtIn(string thingId, IHaveInventory container)
         {
-            GameObject thing = container.Locate(thingId);
+            GameObject? thing = container.Locate(thingId);
             if (thing == null)
-                return $"I can't find the {thingId} in the {container.Name}";
+                return $"I can't find the {thingId}";
 
             return thing.FullDescription;
         }

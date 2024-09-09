@@ -76,7 +76,7 @@ namespace TestLookCommand
         {
             _player.Inventory.Put(_bag);
 
-            string expected = "I can't find the gem in the bag";
+            string expected = "I can't find the gem";
             Assert.That(_look.Execute(_player, new string[] { "look", "at", "gem", "in", "bag" }), Is.EqualTo(expected));
         }
 
