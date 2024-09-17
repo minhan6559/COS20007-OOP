@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week_7", "Week_7", "{01A2A2C3-123F-4EAA-B100-8C5CA63E58AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7.1", "7.1", "{7C08F6C1-1950-4D25-8D90-51F1DA9BDE68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwinAdventure", "Week_7\7.1\SwinAdventure\SwinAdventure.csproj", "{D7C9590A-EA4D-43F6-BF31-E9C0E2EC6D7E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7.2", "7.2", "{D35675BD-F554-4398-B18B-C6C02E534415}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwinAdventure", "Week_7\7.2\SwinAdventure\SwinAdventure.csproj", "{63D4F593-F7AF-4669-A5EA-E15B3E33453C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7C9590A-EA4D-43F6-BF31-E9C0E2EC6D7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C9590A-EA4D-43F6-BF31-E9C0E2EC6D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C9590A-EA4D-43F6-BF31-E9C0E2EC6D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C9590A-EA4D-43F6-BF31-E9C0E2EC6D7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63D4F593-F7AF-4669-A5EA-E15B3E33453C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D4F593-F7AF-4669-A5EA-E15B3E33453C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D4F593-F7AF-4669-A5EA-E15B3E33453C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D4F593-F7AF-4669-A5EA-E15B3E33453C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7C08F6C1-1950-4D25-8D90-51F1DA9BDE68} = {01A2A2C3-123F-4EAA-B100-8C5CA63E58AE}
+		{D7C9590A-EA4D-43F6-BF31-E9C0E2EC6D7E} = {7C08F6C1-1950-4D25-8D90-51F1DA9BDE68}
+		{D35675BD-F554-4398-B18B-C6C02E534415} = {01A2A2C3-123F-4EAA-B100-8C5CA63E58AE}
+		{63D4F593-F7AF-4669-A5EA-E15B3E33453C} = {D35675BD-F554-4398-B18B-C6C02E534415}
+	EndGlobalSection
+EndGlobal
