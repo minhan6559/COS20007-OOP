@@ -24,14 +24,26 @@ namespace DrawingProgram
 
         public float EndX
         {
-            get => _endX;
-            set => _endX = value;
+            get
+            {
+                return _endX;
+            }
+            set
+            {
+                _endX = value;
+            }
         }
 
         public float EndY
         {
-            get => _endY;
-            set => _endY = value;
+            get
+            {
+                return _endY;
+            }
+            set
+            {
+                _endY = value;
+            }
         }
 
         public override void Draw()

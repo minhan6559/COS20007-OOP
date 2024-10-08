@@ -8,9 +8,18 @@
             while (true)
             {
                 Console.Write("Enter player name: ");
-                playerName = Console.ReadLine() ?? string.Empty;
+                playerName = Console.ReadLine();
+                if (playerName == null)
+                {
+                    playerName = string.Empty;
+                }
+
                 Console.Write("Enter player description: ");
-                playerDesc = Console.ReadLine() ?? string.Empty;
+                playerDesc = Console.ReadLine();
+                if (playerDesc == null)
+                {
+                    playerDesc = string.Empty;
+                }
                 if (string.IsNullOrEmpty(playerName) || string.IsNullOrEmpty(playerDesc))
                 {
                     Console.WriteLine("Player name and description cannot be empty.");
@@ -52,7 +61,7 @@
             {
                 Console.WriteLine(player.FullDescription);
                 Console.Write("> ");
-                string command = Console.ReadLine() ?? string.Empty;
+                string command = Console.ReadLine();
 
                 if (string.IsNullOrEmpty(command))
                     continue;

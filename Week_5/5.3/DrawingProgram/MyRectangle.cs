@@ -25,14 +25,26 @@ namespace DrawingProgram
 
         public float Width
         {
-            get => _width;
-            set => _width = value;
+            get
+            {
+                return _width;
+            }
+            set
+            {
+                _width = value;
+            }
         }
 
         public float Height
         {
-            get => _height;
-            set => _height = value;
+            get
+            {
+                return _height;
+            }
+            set
+            {
+                _height = value;
+            }
         }
 
         // Methods

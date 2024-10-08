@@ -24,8 +24,14 @@ namespace MultipleShape
 
         public float Radius
         {
-            get => _radius;
-            set => _radius = value;
+            get
+            {
+                return _radius;
+            }
+            set
+            {
+                _radius = value;
+            }
         }
 
         public override void Draw()

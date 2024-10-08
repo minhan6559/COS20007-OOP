@@ -25,7 +25,13 @@ namespace SwinAdventure
             return null;
         }
 
-        public Inventory Inventory => _inventory;
+        public Inventory Inventory
+        {
+            get
+            {
+                return _inventory;
+            }
+        }
         public override string FullDescription
         {
             get

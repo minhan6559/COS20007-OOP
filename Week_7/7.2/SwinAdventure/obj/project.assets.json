@@ -8,26 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "/Users/minhan6559/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week_7\\7.2\\SwinAdventure\\SwinAdventure.csproj",
+      "projectUniqueName": "/Users/minhan6559/Desktop/COS20007-OOP/Week_7/7.2/SwinAdventure/SwinAdventure.csproj",
       "projectName": "SwinAdventure",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week_7\\7.2\\SwinAdventure\\SwinAdventure.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week_7\\7.2\\SwinAdventure\\obj\\",
+      "projectPath": "/Users/minhan6559/Desktop/COS20007-OOP/Week_7/7.2/SwinAdventure/SwinAdventure.csproj",
+      "packagesPath": "/Users/minhan6559/.nuget/packages/",
+      "outputPath": "/Users/minhan6559/Desktop/COS20007-OOP/Week_7/7.2/SwinAdventure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/minhan6559/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -66,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
