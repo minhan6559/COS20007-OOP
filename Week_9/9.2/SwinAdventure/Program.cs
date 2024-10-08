@@ -46,7 +46,9 @@
             // Create another location and a path between the two locations
             Location location2 = new Location("cave", "A dark cave with bats");
             Path path = new Path(new string[] { "north" }, "north", "a path from forest to cave", location, location2);
+            Path path2 = new Path(new string[] { "south" }, "south", "a path from cave to forest", location2, location);
             location.AddPath(path);
+            location2.AddPath(path2);
 
             // Set player's location
             player.Location = location;
