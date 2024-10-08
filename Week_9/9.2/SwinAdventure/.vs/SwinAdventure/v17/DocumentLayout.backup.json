@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week_9\\9.2\\SwinAdventure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D52998-C7C9-4E4D-A28D-AA02F5711B1A}|..\\TestPath\\TestPath.csproj|c:\\users\\admin\\desktop\\cos20007-oop\\week_9\\9.2\\testpath\\testmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D52998-C7C9-4E4D-A28D-AA02F5711B1A}|..\\TestPath\\TestPath.csproj|c:\\users\\admin\\desktop\\cos20007-oop\\week_9\\9.2\\testpath\\testpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestMove.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week_9\\9.2\\TestPath\\TestMove.cs",
+              "RelativeDocumentMoniker": "..\\TestPath\\TestMove.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week_9\\9.2\\TestPath\\TestMove.cs",
+              "RelativeToolTip": "..\\TestPath\\TestMove.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:25:11.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestPath.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week_9\\9.2\\TestPath\\TestPath.cs",
+              "RelativeDocumentMoniker": "..\\TestPath\\TestPath.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Week_9\\9.2\\TestPath\\TestPath.cs",
+              "RelativeToolTip": "..\\TestPath\\TestPath.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:59:52.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

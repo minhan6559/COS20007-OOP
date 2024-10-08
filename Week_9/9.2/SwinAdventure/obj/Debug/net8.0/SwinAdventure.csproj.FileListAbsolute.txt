@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\COS20007-OOP\Week_9\9.2\SwinAdventure\bin\Debug\net8.0\SwinAdventure.exe
+C:\Users\Admin\Desktop\COS20007-OOP\Week_9\9.2\SwinAdventure\bin\Debug\net8.0\SwinAdventure.deps.json
+C:\Users\Admin\Desktop\COS20007-OOP\Week_9\9.2\SwinAdventure\bin\Debug\net8.0\SwinAdventure.runtimeconfig.json
+C:\Users\Admin\Desktop\COS20007-OOP\Week_9\9.2\SwinAdventure\bin\Debug\net8.0\SwinAdventure.dll
+C:\Users\Admin\Desktop\COS20007-OOP\Week_9\9.2\SwinAdventure\bin\Debug\net8.0\SwinAdventure.pdb
+C:\Users\Admin\Desktop\COS20007-OOP\Week_9\9.2\SwinAdventure\obj\Debug\net8.0\SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\COS20007-OOP\Week_9\9.2\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\COS20007-OOP\Week_9\9.2\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfo.cs
+C:\Users\Admin\Desktop\COS20007-OOP\Week_9\9.2\SwinAdventure\obj\Debug\net8.0\SwinAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\COS20007-OOP\Week_9\9.2\SwinAdventure\obj\Debug\net8.0\SwinAdventure.sourcelink.json
+C:\Users\Admin\Desktop\COS20007-OOP\Week_9\9.2\SwinAdventure\obj\Debug\net8.0\SwinAdventure.dll
+C:\Users\Admin\Desktop\COS20007-OOP\Week_9\9.2\SwinAdventure\obj\Debug\net8.0\refint\SwinAdventure.dll
+C:\Users\Admin\Desktop\COS20007-OOP\Week_9\9.2\SwinAdventure\obj\Debug\net8.0\SwinAdventure.pdb
+C:\Users\Admin\Desktop\COS20007-OOP\Week_9\9.2\SwinAdventure\obj\Debug\net8.0\SwinAdventure.genruntimeconfig.cache
+C:\Users\Admin\Desktop\COS20007-OOP\Week_9\9.2\SwinAdventure\obj\Debug\net8.0\ref\SwinAdventure.dll
