@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Clock Program\\ClockCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E23848-2D45-4DA2-A533-CF4F08BEE6BD}|Clock.csproj|c:\\users\\admin\\desktop\\cos20007-oop\\clock program\\clockcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E23848-2D45-4DA2-A533-CF4F08BEE6BD}|Clock.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E23848-2D45-4DA2-A533-CF4F08BEE6BD}|Clock.csproj|c:\\users\\admin\\desktop\\cos20007-oop\\clock program\\clockcsharp\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E23848-2D45-4DA2-A533-CF4F08BEE6BD}|Clock.csproj|solutionrelative:clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Clock Program\\ClockCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Clock Program\\ClockCSharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:43:36.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clock.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Clock Program\\ClockCSharp\\Clock.cs",
+              "RelativeDocumentMoniker": "Clock.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\COS20007-OOP\\Clock Program\\ClockCSharp\\Clock.cs",
+              "RelativeToolTip": "Clock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:43:30.45Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
