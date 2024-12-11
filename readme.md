@@ -2,7 +2,7 @@
 
 This repository contains all my solutions for the **weekly assignments** in the **Object-Oriented Programming (COS20007)** unit at **Swinburne University**. It includes various exercises and projects that demonstrate the practical application of object-oriented programming (OOP) concepts such as inheritance, polymorphism, and design patterns.
 
-## Final Result: **93% (HD)**
+## Final Result: **97% (HD)**
 
 I achieved a **final grade of 97%**, which corresponds to a **High Distinction (HD)** for the unit. This repository showcases my understanding and application of core OOP principles and demonstrates how I applied them to solve various real-world problems.
 
