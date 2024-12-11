@@ -14,9 +14,9 @@ I achieved a **final grade of 97%**, which corresponds to a **High Distinction (
 
 ## Final Projects
 
-- [**SoNeat (Custom Program)**](https://github.com/minhan6559/SoNeat): This project is a C# application that was designed as a custom program to get HD. Link to the project [here](https://github.com/minhan6559/SoNeat)
+- [**Custom Program: SoNeat**](https://github.com/minhan6559/SoNeat): This project is a C# application that was designed as a custom program to get HD. Link to the project [here](https://github.com/minhan6559/SoNeat)
   
-- [**Object-Oriented Programming in PyTorch: A Deep Dive (Research Project)**](./Research%20Project/Object_Oriented_Programming_in_PyTorch__A_Deep_Dive.pdf): The research project covers an in-depth analysis of an OOP concept, exploring its application in the modern deep learning frameworks - Pytorch. Link to the project [here](./Research%20Project/Object_Oriented_Programming_in_PyTorch__A_Deep_Dive.pdf)
+- [**Research Project: Object-Oriented Programming in PyTorch: A Deep Dive**](./Research%20Project/Object_Oriented_Programming_in_PyTorch__A_Deep_Dive.pdf): The research project covers an in-depth analysis of an OOP concept, exploring its application in the modern deep learning frameworks - Pytorch. Link to the project [here](./Research%20Project/Object_Oriented_Programming_in_PyTorch__A_Deep_Dive.pdf)
 
 ## Achievements
 
